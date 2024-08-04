@@ -11,7 +11,7 @@ SmartSeat is an innovative project designed to enhance the efficiency of univers
 ## Project Structure
 - `evaluation.py`: Streamlit script for evaluating the model performance.
 - `realtime_simulation.py`: Streamlit script for real-time simulation and demo of the SmartSeat system.
-- `yolov8n.pt`: File containing pre-computed predictions used for evaluation.
+- `best (1).pt`: File containing pre-computed predictions used for evaluation.
 
 ## Installation
 To run this project, you'll need to have Python installed on your machine. You can install the necessary packages using the following command:

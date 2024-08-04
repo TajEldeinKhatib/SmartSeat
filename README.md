@@ -34,8 +34,6 @@ pip install -r requirements.txt
    streamlit run realtime_simulation.py
 3. Observe the real-time seat availability status for the right and left seats using the color-coded indicators on the Streamlit interface.
 
-## Contributing
-We welcome contributions to enhance the SmartSeat project. Please fork the repository and create a pull request with your changes.
 
 ## License
 This project is private and not currently available under an open-source license.
